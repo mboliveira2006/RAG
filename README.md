@@ -48,6 +48,11 @@ Este repositório pode ser utilizado para diversos casos de uso, como:
 * Extração de informações específicas
 * Geração de texto
 
+**Lei o artigo no linkedin**
+
+[Usando modelos LLMs localmente](https://www.linkedin.com/pulse/usando-modelos-llms-localmente-marcelo-oliveira-xq33f/?trackingId=j7QPMF4lA0Qjs4gp2M9K8w%3D%3D)
+
+
 **Contribuições**
 
 Sinta-se à vontade para contribuir com este repositório enviando sugestões, correções ou novos recursos.
